@@ -37,3 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+rsap.Rcheck/
+rsap*.tar.gz
+rsap*.tgz
